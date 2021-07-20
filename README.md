@@ -1,6 +1,6 @@
 ## while(!(succeed = try()));
 
-### 👋 Hi, I’m Kajal Jha a.k.a KJ
+## 👋 Hi, I’m Kajal Jha (KJ)
 - 👀 I’m interested in Full Stack Web Development
 - 📫 How to reach me: </br>
    Gmail :- [G mail](mailto:kajal832jha@gmail.com)<br>
