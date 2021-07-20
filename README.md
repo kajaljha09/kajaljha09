@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Kajal Jha
-- 👀 I’m interested in Web Development ,ML and AI
-- 📫 How to reach me 
-    [G mail](mailto:kajal832jha@gmail.com)
+## while(!(succeed = try()));
+
+### 👋 Hi, I’m Kajal Jha a.k.a KJ
+- 👀 I’m interested in Full Stack Web Development
+- 📫 How to reach me: </br>
+   Gmail :- [G mail](mailto:kajal832jha@gmail.com)<br>
+   LinkedIn :- [LinkedIn](linkedin.com/in/kajal-jha-105262194)
     
  
 <!---
