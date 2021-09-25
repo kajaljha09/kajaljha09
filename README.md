@@ -10,8 +10,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajaljha09&show_icons=true&locale=en" alt="kajaljha09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajaljha09&" alt="kajaljha09" /></p>
+&nbsp;<img style={display:flex} src="https://github-readme-stats.vercel.app/api?username=kajaljha09&show_icons=true&locale=en" alt="kajaljha09" /><img style={display:flex} src="https://github-readme-streak-stats.herokuapp.com/?user=kajaljha09&" alt="kajaljha09" />
 
 
