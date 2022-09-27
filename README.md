@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajaljha09&label=Profile%20views&color=0e75b6&style=flat" alt="kajaljha09" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently **Software Development Trainee**
 
 - 📫 How to reach me **kajal832jha@gmail.com**
 -  Lets connect on [LinkedIn](https://www.linkedin.com/in/kajal-jha-105262194/)
